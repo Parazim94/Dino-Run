@@ -1,0 +1,5 @@
+#gameCanvas {
+    background: url('background.webp') no-repeat center center;
+    background-size: cover; /* Passt das Bild an die Größe des Canvas an */
+  }
+  
